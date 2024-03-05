@@ -1,6 +1,5 @@
 import java.util.*;
 import java.io.*;
-import java.net.SocketTimeoutException;
 
 public class Robot {
     ArrayList<Integer> autoAmps = new ArrayList<>();

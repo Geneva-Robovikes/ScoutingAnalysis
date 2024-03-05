@@ -1,0 +1,7 @@
+Team Name,Team Color,Auto: Notes in Amp Scored,Auto: Notes in Speaker Scored,Auto: Left Starting Area,Teleop: Notes in Amp Scored,Teleop: Notes in Speaker Scored,Teleop: Shots Missed,Teleop: Completed Climb,Teleop: Completed Trap,Teleop: Broke Down but Restarted,Teleop: Broke Down not restarted
+8728,Blue,0,1,false,3,5,1,false,false,false,false,
+8373,Blue,0,0,true,0,4,2,false,false,false,false,
+9210,Blue,0,0,true,0,1,0,false,false,false,false,
+3414,Red,0,2,true,3,4,2,false,false,false,false,
+8424,Red,0,0,true,4,1,2,false,false,false,false,
+1023,Red,0,0,false,0,8,2,true,false,false,false,
